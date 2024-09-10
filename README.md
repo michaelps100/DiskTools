@@ -11,3 +11,7 @@ PBP PSX2PSP v1.4.2 (Multi-Disk PS1): <a href="https://cdromance.org/guides/psx2p
 ____________________
 namDHC - CHDMAN + Frontend: <a href="https://github.com/umageddon/namDHC/releases">Download</a> <br/>
 ____________________
+CSO CISO: <a href="https://github.com/michaelps100/DiskTools/blob/main/CSO%20(PPSSPP).zip">Download</a> <br/>
+Compatible with PCSX2, AethersX2, PPSSPP <br/>
+PSP, PS2
+____________________
